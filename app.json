@@ -10,7 +10,9 @@
     "pages/yule/yule",
     "pages/yulepage/yulepage",
     "pages/wenyi/wenyi",
-    "pages/wenyipage/wenyipage"
+    "pages/wenyipage/wenyipage",
+    "pages/ziran/ziran",
+    "pages/lishi/lishi"
   ],
   "permission": {
     "scope.userLocation": {
