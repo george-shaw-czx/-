@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/index1/index1",
+    "pages/index2/index2",
+    "pages/choice/choice",
+    "pages/rain/rain",
+    "pages/zhuan/zhuan",
+    "pages/inthecity/inthecity",
+    "pages/yule/yule",
+    "pages/yulepage/yulepage",
+    "pages/wenyi/wenyi",
+    "pages/wenyipage/wenyipage"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#00FFFF",
+    "navigationBarTitleText": "北邮人GO",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}
