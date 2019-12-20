@@ -1,0 +1,12 @@
+Page
+{background-color: #FFDAB9}
+
+.a
+{
+  background: url(https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2569823402,3083640319&fm=26&gp=0.jpg)
+}
+.b
+{
+  text-align: center;
+  font-size: 35px
+}

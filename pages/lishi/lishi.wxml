@@ -1,0 +1,13 @@
+<view class="N">来看看这些好玩的地方吧</view>
+<view bindtap="A" class="all1">
+<text class="A">龙门石窟</text>  温度：{{tmp}} 天气：{{tianqi}} </view>  
+<view bindtap="B" class="all2">
+<text class="B">莫高窟</text>  温度：{{tmp1}} 天气：{{tianqi1}} </view>
+<view bindtap="C" class="all3">
+<text class="C">中山陵园</text>  温度：{{tmp2}} 天气：{{tianqi2}}</view>
+<view bindtap="D" class="all4">
+<text class="D">苏州古城</text>  温度：{{tmp3}} 天气：{{tianqi3}} </view>
+<view bindtap="E" class="all5">
+<text class="E">黄鹤楼</text>  温度：{{tmp4}} 天气：{{tianqi4}}</view>
+<view bindtap="F" class="all6">
+<text class="F">井冈山</text>  温度：{{tmp5}} 天气：{{tianqi5}}</view>

@@ -1,0 +1,12 @@
+Page
+{background-color: #FFDAB9}
+
+.a
+{
+  background: url(http://img.ifeng.com/res/200808/0807_429960.jpg)
+}
+.b
+{
+  text-align: center;
+  font-size: 35px
+}

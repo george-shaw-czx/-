@@ -1,0 +1,23 @@
+<view wx-if="{{groupstanding==3}}"><image src="http://linhai.china-huaxue.com/UploadFiles_8320/201510/2015102215383304.png"></image></view>
+<view wx-if="{{groupstanding==1}}"><image src="https://tse4-mm.cn.bing.net/th/id/OIP.ABolS9CV92rCt6Am4VkI_QHaHa?w=193&h=193&c=7&o=5&dpr=1.25&pid=1.7"></image></view>
+<view wx-if="{{groupstanding==2}}"><image src="https://tse4-mm.cn.bing.net/th/id/OIP.rHFjCpJOA9sMjvQ8CA-qLQHaFj?w=262&h=196&c=7&o=5&dpr=1.25&pid=1.7"></image></view>
+<view wx-if="{{groupstanding==4}}"><image src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=c5760d3de4cd7b89fd6132d16e4d29c2/6a600c338744ebf80b3d69c8dbf9d72a6159a7fc.jpg"></image></view>
+<view wx-if="{{groupstanding==5}}"><image src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=048ba6ee0cf3d7ca08f63874c21ebe3c/ac345982b2b7d0a2905de54dcbef76094a369a4e.jpg"></image></view>
+<view class="B"wx-if="{{groupstanding==3}}">长白山</view>
+<view class="B"wx-if="{{groupstanding==2}}">广州长隆</view>
+<view class="B"wx-if="{{groupstanding==1}}">上海迪士尼</view>
+<view class="B"wx-if="{{groupstanding==4}}">郑州方特</view>
+<view class="B"wx-if="{{groupstanding==5}}">武汉欢乐谷</view>
+<view class="zi"wx-if="{{groupstanding==3}}"><text>滑雪场海拔900米，山体落差140米，现有初中级滑雪道两条，高级专业天然滑雪道一条，雪场占地面积为102公顷，并配备高空单人吊椅，拖牵索道、溜索、进口雪地摩托、压雪机、大口径造雪机等先进设备。
+</text> </view>
+<view class="zi"wx-if="{{groupstanding==1}}"><text>上海迪士尼乐园，是中国内地首座迪士尼主题乐园，位于上海市浦东新区川沙新镇，于2016年6月16日正式开园。它是中国第二个、中国内地第一个、亚洲第三个、世界第六个迪士尼主题公园。上海迪士尼乐园拥有七大主题园区：米奇大街、奇想花园、探险岛、宝藏湾、明日世界、梦幻世界、玩具总动员
+</text> </view>
+<view class="zi"wx-if="{{groupstanding==2}}"><text>长隆欢乐世界坐落在广州番禺迎宾路，占地面积2000多亩，游乐设施近70项。其中包括：“全球过山车之王”垂直过山车、创吉尼斯世界纪录的十环过山车、荣获行业设计金奖的摩托过山车、超级大摆锤、东半球唯一的U型滑板等世界级巅峰游乐项目。
+</text> </view>
+<view class="zi"wx-if="{{groupstanding==3}}"><text>滑雪场海拔900米，山体落差140米，现有初中级滑雪道两条，高级专业天然滑雪道一条，雪场占地面积为102公顷，并配备高空单人吊椅，拖牵索道、溜索、进口雪地摩托、压雪机、大口径造雪机等先进设备。
+</text> </view>
+<view class="zi"wx-if="{{groupstanding==4}}"><text>郑州方特欢乐世界由飞越极限、恐龙危机、海螺湾、逃出恐龙岛、唐古拉雪山、暴风眼、极地快车、飞翔之歌、星球达人秀、电影魔术大揭秘、生命之光、聊斋、宇宙小勇士等20多个大型主题项目区组成，涵盖主题项目、游乐项目、休闲及景观项目200多项。其中包括许多先进的大型游乐项目，绝大多数项目老少皆宜。这里有高空飞翔体验项目“飞越极限”；大型恐龙复活灾难体验项目“恐龙危机”；无压肩式圆环过山车“暴风眼”； 巨型回旋式过山
+ 车“极地快车”；大型雪山探险项目“唐古拉雪山”；大型室内全彩LED魔幻剧场“飞翔之歌”；让人琢磨不透的中国传统神话神奇演绎项目“聊斋”；色彩斑斓、如梦似幻的项目“海螺湾”；神奇的互动卡通脱口秀“十二生肖快乐街”......
+</text> </view>
+<view class="zi"wx-if="{{groupstanding==5}}"><text>梦想大道、卡通工厂、欢乐时光、极速世界、渔光岛、羽落天堂、飓风湾、欢乐江城八大主题区域，组成了这个华中地区的首席欢乐地。既延承欢乐谷的合理布局，又极为注重与环境的融合，武汉欢乐谷的八大主题区域，不仅与东湖的自然禀赋相互配合，还与武汉的人文气质一脉相承。它为游客呈现100多项娱乐体验项目，包括30多项游乐设备、40多处生态人文景观、10多台文化演艺精品、20多项主题娱乐游戏，精彩诠释多元欢乐。其中，武汉欢乐谷重资引进的十二大全球顶尖游乐设备，为武汉带来了多项游乐项目的亚洲乃至全球之“最”，包括亚洲首座双龙木质过山车、全球至高的观光塔、720度圆环过山车、中国最高的弹射过山车、超级大摆锤、4D动感影院等，超越梦想的体验，在武汉欢乐谷近在眼前。
+</text> </view>

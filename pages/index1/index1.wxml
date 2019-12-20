@@ -1,0 +1,23 @@
+<form bindsubmit="formSubmit" bindreset="formReset">
+<view class="section section_gap">
+     <view class="section section_gap">
+    <view class="section__title">请选择多少天后出发</view>
+    <slider name="slider"min="0" max="3"color="red" show-value ></slider>
+</view>
+  <view class="section__title">请选择你的理想目的地类型</view>
+    <checkbox-group name="checkbox" >
+      <label><checkbox value="checkbox1"/>美食</label>
+      <label><checkbox value="checkbox2"/>运动</label>
+      <label><checkbox value="checkbox3"/>历史</label>
+      <label><checkbox value="checkbox4"/>文艺</label>
+      <label><checkbox value="checkbox5"/>自然</label>
+    </checkbox-group>
+    <!-- <view wx:if="{{}}">单个条件</view>
+<view wx:if="{{a || b}}">多个或条件</view>
+<view wx:if="{{a && b}}">多个且条件</view> -->
+  </view>
+  <view class="btn-area">
+    <button formType="submit"type="primary">提交</button>
+    <button formType="reset"type="warn">清空</button>
+  </view>
+</form>

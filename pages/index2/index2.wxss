@@ -1,0 +1,16 @@
+page {
+  background:url(https://cn.bing.com/th?id=OIP.j-NAsLMoFe9jr2HRIuXDgAHaE7&pid=Api&rs=1);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.section__title{
+  font-size: 20px;
+  color: #FFD700;
+}
+.btn-area{
+  margin-top: 150px;
+}
+.button2{
+  margin-top: 50px;
+}

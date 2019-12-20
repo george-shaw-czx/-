@@ -1,0 +1,8 @@
+/**index.wxss**/
+page {
+  background:url(http://pic1.win4000.com/wallpaper/2018-12-07/5c0a135d135b5.jpg);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+

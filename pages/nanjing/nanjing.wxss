@@ -1,0 +1,10 @@
+
+.A{background: url(http://www.duzhebao.cn/DZB/js/common/ueditor1.2.6.1/jsp/upload/20160524/21781464056088644.jpg)
+  }
+  page{background-color: #FFDAB9}
+.zi{ font-size: 20px;
+    }
+.B{ font-size: 30px;
+    text-align:center
+}
+     

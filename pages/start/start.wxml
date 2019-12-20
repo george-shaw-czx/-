@@ -1,0 +1,23 @@
+<view class="header"><text>累了吗？去哪玩</text></view>
+<view wx:if="{{groupStanding>3}}">
+<image src="https://ae01.alicdn.com/kf/U97e708119cb14795b6ed25923c6e3b0cS.jpg" class="abc"></image>
+</view>
+<view wx:if="{{groupStanding<4&&groupStanding>2}}">
+<image src="https://ae01.alicdn.com/kf/U94536e43a03c45ea89ad051650ea4a9ay.jpg" class="abc"></image>
+</view>
+<view wx:if="{{groupStanding<3}}">
+<image src="https://ae01.alicdn.com/kf/U8e2c5185d52f435b970f3d8fa47de89at.jpg" class="abc"></image>
+</view>
+
+<button bindtap="Harry">
+<text wx:if="{{groupStanding>3}}">
+累！
+</text>
+<text wx:if="{{groupStanding<4&&groupStanding>2}}">
+苦！
+</text>
+<text wx:if="{{groupStanding<3}}"bindtap="turnToCity">
+Let's go!
+</text>
+</button>
+

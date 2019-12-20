@@ -1,0 +1,10 @@
+
+.A{background: url(http://img2.imgtn.bdimg.com/it/u=1517704447,1814365843&fm=26&gp=0.jpg)
+  }
+  page{background-color: #FFDAB9}
+.zi{ font-size: 20px;
+    }
+.B{ font-size: 30px;
+    text-align:center
+}
+     

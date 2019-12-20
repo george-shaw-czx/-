@@ -1,0 +1,26 @@
+<view>北京天气:{{weather}}</view>
+<view class="N">来康康这些好玩的地方吧</view>
+<view wx-if="{{checkbox>=0}}" bindtap="A" class="all1">
+<text class="A">南锣鼓巷</text></view>
+<view wx-if="{{checkbox1>=0}}"bindtap="B" class="all2">
+<text class="B">奥林匹克森林公园</text></view>
+<view wx-if="{{checkbox2>=0}}"bindtap="C" class="all3">
+<text class="C">故宫</text></view>
+<view wx-if="{{checkbox3>=0}}"bindtap="D" class="all4">
+<text class="D">国家大剧院</text></view>
+<view wx-if="{{checkbox4>=0}}"bindtap="E" class="all5">
+<text class="E">香山公园</text></view>
+<view wx-if="{{checkbox>=0}}"bindtap="F" class="all1">
+<text class="A">牛街</text></view>
+<view wx-if="{{checkbox1>=0}}"bindtap="G" class="all2">
+<text class="B">怀北滑雪场</text></view>
+<view wx-if="{{checkbox2>=0}}"bindtap="H" class="all3">
+<text class="C">颐和园</text></view>
+<view wx-if="{{checkbox3>=0}}"bindtap="I" class="all4">
+<text class="D">中国美术馆</text></view>
+<view wx-if="{{checkbox4>=0}}"bindtap="J" class="all5">
+<text class="E">坡峰岭</text></view>
+<view wx-if="{{checkbox2>=0}}"bindtap="K" class="all3">
+<text class="C">天坛</text></view>
+<view wx-if="{{checkbox3>=0}}"bindtap="L" class="all4">
+<text class="D">798艺术区</text></view>

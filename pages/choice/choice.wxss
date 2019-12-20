@@ -1,0 +1,27 @@
+page{
+  background:url(http://img0.imgtn.bdimg.com/it/u=1239701112,3641928982&fm=26&gp=0.jpg);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-size: cover;
+}
+.beijing{
+  margin-top: 150px;
+background-color:chartreuse;
+color:white;
+}
+.country{
+  background-color:chartreuse;
+  color:white;
+}
+.location{
+  font-size: 40px;
+}
+.latitude{
+  color:red;
+  font-size: 40px;
+}
+.longitude{
+  color:red;
+  font-size: 40px;
+}

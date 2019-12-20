@@ -1,0 +1,13 @@
+Page
+{background-color: #FFDAB9}
+
+.a
+{
+  background: url(http://risesun.cn/Upload/image/20161017/20161017153816_9269.png
+)
+}
+.b
+{
+  text-align: center;
+  font-size: 35px
+}

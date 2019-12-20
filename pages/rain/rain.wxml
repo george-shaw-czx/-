@@ -1,0 +1,4 @@
+<image src="/images/learn.jpg"></image>
+<button class='goodbutton'  hover-class="hover" bindtap="turntostart">这就回去学习</button>
+
+<button class='goodbutton'  hover-class="hover" bindtap="turntocountry">不，我要去追寻诗和远方</button>

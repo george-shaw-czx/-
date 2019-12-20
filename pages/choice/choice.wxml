@@ -1,0 +1,7 @@
+<button class="beijing" bindtap="turntopeking">北京市内</button>
+<!-- <button bindtap="getlocation"class="page-body-button" type="primary">获取位置</button>-->
+<view class="location">当前位置</view>
+<view class="latitude">纬度{{latitude}}</view>
+<view class="longitude">经度{{longitude}}</view>
+<button class="country" bindtap="turntocountry">全国游</button>
+<!--页面根标签-->

@@ -1,0 +1,13 @@
+<view class="N">来看看这些好玩的地方吧</view>
+<view bindtap="A" class="all1">
+<text class="A">景点A</text>  温度：{{tmp}} 天气：{{tianqi}} pm2.5：{{pm25}}</view>  
+<view bindtap="B" class="all2">
+<text class="B">景点B</text>  温度：{{tmp1}} 天气：{{tianqi1}} pm2.5：{{pm251}}</view>
+<view bindtap="C" class="all3">
+<text class="C">长白山</text>  温度：{{tmp2}} 天气：{{tianqi2}} pm2.5：{{pm252}}</view>
+<view bindtap="D" class="all4">
+<text class="D">景点D</text>  温度：{{tmp3}} 天气：{{tianqi3}} pm2.5：{{pm253}}</view>
+<view bindtap="E" class="all5">
+<text class="E">景点E</text>  温度：{{tmp4}} 天气：{{tianqi4}} pm2.5：{{pm254}}</view>
+<view bindtap="F" class="all6">
+<text class="F">景点F</text>  温度：{{tmp5}} 天气：{{tianqi5}} pm2.5：{{pm255}}</view>
