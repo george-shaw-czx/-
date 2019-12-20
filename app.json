@@ -12,7 +12,19 @@
     "pages/wenyi/wenyi",
     "pages/wenyipage/wenyipage",
     "pages/ziran/ziran",
-    "pages/lishi/lishi"
+    "pages/lishi/lishi",
+    "pages/try/try",
+    "pages/try1/try1",
+    "pages/try2/try2",
+    "pages/try3/try3",
+    "pages/try4/try4",
+    "pages/try5/try5",
+    "pages/huanghelou/huanghelou",
+    "pages/jinggangshan/jinggangshan",
+    "pages/longmen/longmen",
+    "pages/mogaoku/mogaoku",
+    "pages/nanjing/nanjing",
+    "pages/suzhougucheng/suzhougucheng"
   ],
   "permission": {
     "scope.userLocation": {
