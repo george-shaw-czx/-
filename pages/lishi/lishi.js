@@ -251,7 +251,7 @@ B: function () {
   },
   E: function () {
     wx.navigateTo({
-      url: '../huanghelou/huanghelou'
+      url: '../huanghelou/jingdian'
     })
   },
   F: function () {
